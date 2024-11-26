@@ -1,6 +1,6 @@
 # Descrição do Projeto: Tradutor de Artigos da Web com Azure OpenAI
 
-Este projeto é criado durante o DIO Bootcamp Microsoft #102 que combina a extração de textos de páginas da web em inglês com a tradução automática para o português.
+Este projeto foi criado durante o DIO Bootcamp Microsoft #102 combinando a extração de textos de páginas da web em inglês com a tradução automática para o português através da implementação da Azure OpenAI
 
 ## O que este projeto faz?
 
